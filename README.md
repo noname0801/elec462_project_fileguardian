@@ -195,5 +195,5 @@ Successfully logged out.
 
 Team 20
 - Khabibilo
-- 김미성
-- 최윤성
+- Kim Mi-sung
+- Choi Yun-sung
